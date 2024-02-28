@@ -4,7 +4,7 @@ const mainData = () => {
         return response.json()
     })
     .then((data) =>{
-        console.log(data.anime)
+        console.log(data)
     })
 
 }
